@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Ciudad y Espacio 2020 on Nombre Alumno</title>
-    <link>https://maxlara.github.io/docs/</link>
-    <description>Recent content in Taller Ciudad y Espacio 2020 on Nombre Alumno</description>
+    <title>Taller Ciudad y Espacio 2020 on Cristóbal</title>
+    <link>http://crissotomayorl95.github.io/docs/</link>
+    <description>Recent content in Taller Ciudad y Espacio 2020 on Cristóbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
-	<atom:link href="https://maxlara.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://crissotomayorl95.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Encargo 1</title>
-      <link>https://maxlara.github.io/docs/proyecto/encargo-1/</link>
+      <link>http://crissotomayorl95.github.io/docs/proyecto/encargo-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://maxlara.github.io/docs/proyecto/encargo-1/</guid>
+      <guid>http://crissotomayorl95.github.io/docs/proyecto/encargo-1/</guid>
       <description>Objetivos generales y específicos del Proyecto a realizar.</description>
     </item>
     
     <item>
-      <title>Configuración</title>
-      <link>https://maxlara.github.io/docs/configuracion/</link>
+      <title>Encargo modelados fusion 360</title>
+      <link>http://crissotomayorl95.github.io/docs/encargo-fusion-1/encargo-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://maxlara.github.io/docs/configuracion/</guid>
+      <guid>http://crissotomayorl95.github.io/docs/encargo-fusion-1/encargo-1/</guid>
+      <description>Modelados en el software fusion 360</description>
+    </item>
+    
+    <item>
+      <title>Configuración</title>
+      <link>http://crissotomayorl95.github.io/docs/configuracion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>http://crissotomayorl95.github.io/docs/configuracion/</guid>
       <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
     </item>
     

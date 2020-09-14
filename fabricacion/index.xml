@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>Encargo Planimetrías</title>
-      <link>https://crissotomayorl95.github.io/fabricacion/docs/encargo-silla/</link>
+      <title>Encargo 1 Planimetrías</title>
+      <link>https://crissotomayorl95.github.io/fabricacion/docs/encargo-1-silla/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://crissotomayorl95.github.io/fabricacion/docs/encargo-silla/</guid>
+      <guid>https://crissotomayorl95.github.io/fabricacion/docs/encargo-1-silla/</guid>
       <description>Planimetrías silla</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2 Mecanización CNC</title>
+      <link>https://crissotomayorl95.github.io/fabricacion/docs/encargo-2-/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://crissotomayorl95.github.io/fabricacion/docs/encargo-2-/</guid>
+      <description>Videos de Fusion en sillas</description>
     </item>
     
     <item>
@@ -30,7 +39,7 @@
     </item>
     
     <item>
-      <title>Macetero Biodegradable</title>
+      <title>Encargo 3:Macetero Biodegradable</title>
       <link>https://crissotomayorl95.github.io/fabricacion/docs/encargo-macetero-biodegradable/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -57,12 +66,12 @@
     </item>
     
     <item>
-      <title>Encargo 2 Mecanización CNC</title>
-      <link>https://crissotomayorl95.github.io/fabricacion/docs/encargo-2-/</link>
+      <title>Entrega 6: Procesos de fabricación de Macetero</title>
+      <link>https://crissotomayorl95.github.io/fabricacion/docs/encargo-6/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://crissotomayorl95.github.io/fabricacion/docs/encargo-2-/</guid>
-      <description>Videos de Fusion en sillas</description>
+      <guid>https://crissotomayorl95.github.io/fabricacion/docs/encargo-6/</guid>
+      <description>Proceso de fabricación de macetero ecológico</description>
     </item>
     
   </channel>
